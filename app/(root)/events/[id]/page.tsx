@@ -1,4 +1,4 @@
-import CheckOutButton from '@/components/shared/CheckOutButton'
+import CheckOutButton from '@/components/shared/CheckoutButton'
 import Collection from '@/components/shared/Collection'
 import { getEventById, getRelatedEventsByCategory } from '@/lib/actions/event.actions'
 import { formatDateTime } from '@/lib/utils'
